@@ -1,0 +1,86 @@
+/* Author: August Frisk
+** Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+** Project: Phone Number Validator */
+
+body {
+  font-family: "helvetica", "arial", san-serif;
+  text-align: center;
+  background: #eee;
+}
+
+input, button {
+  padding: 1em;
+  transition: all 0.2s ease-in-out;
+}
+
+input {
+  width: calc(78% - 1em);
+  margin-right: 0px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  background: #eeeeef;
+  border: 0 transparent none;
+  border: 1px solid #AAA;
+  border-right: 0 transparent none;
+}
+
+button {
+  width: calc(20% - 1em);
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  margin-left: -5px;
+  box-shadow: none;
+  border: 0 transparent none;
+  background: #0592ff;
+  color: #FFF;
+  font-weight: bold;
+  border: 1px solid #0592ff;
+  border-left: 0 transparent none;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  content: "Go!";
+}
+button:active {
+  background: blue;
+}
+
+h1 {
+  text-align: center;
+  font-weight: normal;
+  color: #444;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+#container {
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  background: #FFF;
+  box-shadow: 0 0.1em 0.2em rgba(0, 0, 0, 0.3);
+  padding: 1em;
+  margin-top: 1em;
+}
+#container.yup #pass {
+  display: block;
+}
+#container.yup #instruct {
+  display: none;
+}
+#container.nope input {
+  background: #ffcfc3;
+  border-color: #ff0e29;
+}
+#container.nope button {
+  background: #ff0e29;
+  border-color: #ff0e29;
+}
+#container.nope #fail {
+  display: block;
+}
+#container.nope #instruct {
+  display: none;
+}
+#container #pass, #container #fail {
+  display: none;
+}
