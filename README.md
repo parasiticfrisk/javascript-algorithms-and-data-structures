@@ -8,7 +8,7 @@
 </div>
 
 <!-- badge info -->
-[school-badge]:https://img.shields.io/badge/free_Code_Camp-Algorithms_and_Data_Structures-white?labelColor=midnightblue&logo=freeCodeCamp&style=for-the-badge
+[school-badge]:https://img.shields.io/badge/free_Code_Camp-Algorithms_&_Data_Structures-white?labelColor=midnightblue&logo=freeCodeCamp&style=for-the-badge
 [course-link]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "Responsive Web Design"
 [license-badge]:https://img.shields.io/github/license/parasiticfrisk/basic-cognitive-process?color=success&&style=for-the-badge
 [LICENSE]:LICENSE "MIT License"
@@ -27,16 +27,16 @@ Finally, you'll learn how to make webpages that respond to different screen size
 |                            | <h3 align="center">Project</h3> |                            |
 | :------------------------- | :------------------------------ | :------------------------- |
 | Palindrom Checker          | [View Code][proj01]             | [View Requirements][req01] |
-| Roman Numeral Converter    | [View Code][proj02]             | [View Requirements][req02] |
+| Roman Numeral Converter    | [View Page][proj02]             | [View Requirements][req02] |
 | Caesars Cipher             | [View Code][proj03]             | [View Requirements][req03] |
 | Telephone Number Validator | [View Code][proj04]             | [View Requirements][req04] |
 | Cash Register              | [View Code][proj05]             | [View Requirements][req05] |
 
 <!-- project quick links -->
 [proj01]:projects/palindrome_checker.js
-[proj02]:projects/roman_numeral_converter.js
+[proj02]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/04/roman_num.html
 [proj03]:projects/caesars_cipher.js
-[proj04]:projects/phone_number_validator.js
+[proj04]:
 [proj05]:projects/cash_register.js
 [req01]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker "Palindrome Checker"
 [req02]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form "Build a Survey Form"

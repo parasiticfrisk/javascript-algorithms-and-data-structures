@@ -1,0 +1,52 @@
+/* Author: August Frisk
+** Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+** Project: Roman Numeral Converter */
+
+@import url(https://fonts.googleapis.com/css?family=Quattrocento:400,700);
+.shadow, #convert, body {
+  text-shadow: 2px 2px 0px #db9, 0 0 0 black;
+}
+
+body {
+  font-size: 28px;
+  font-family: "Quattrocento", serif;
+  font-weight: bold;
+  background-color: #db9;
+  color: rgba(0, 0, 0, 0.5);
+  text-shadow: 2px 2px 0px #db9, 0 0 0 black;
+}
+
+body,
+input {
+  text-align: center;
+}
+
+#convert {
+  padding-top: 10px;
+  border: none;
+  border-bottom: 2px solid black;
+  box-shadow: 0px 3px 0px rgba(0, 0, 0, 0.5);
+  background: transparent;
+  font-size: 2em;
+}
+#convert:focus {
+  outline: none;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: inset 2px 2px 10px rgba(0, 0, 0, 0.2), 0px 3px 0px rgba(0, 0, 0, 0.5);
+}
+#convert::-moz-placeholder {
+  color: rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 2px 0px #db9, 0 0 0 rgba(0, 0, 0, 0.2);
+}
+#convert:-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 2px 0px #db9, 0 0 0 rgba(0, 0, 0, 0.2);
+}
+#convert::placeholder {
+  color: rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 2px 0px #db9, 0 0 0 rgba(0, 0, 0, 0.2);
+}
+
+#converted {
+  word-wrap: break-word;
+}
