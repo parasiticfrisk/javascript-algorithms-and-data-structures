@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="author" content="August Frisk">
+        <meta name="description"
+            content="Caesar's Cipher - JavaScript Algorithms & Data Structures Certification Project.">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/6.0.16/css/bootstrap-slider.css">
+        <link rel="stylesheet" href="css/main.css">
+        <title>Caesar's Cipher</title>
+    </head>
+
+    <body>
+        <div class="jumbotron">
+            <div class="container text-center">
+                <h2>Caesars Cipher</h2>
+            </div>
+        </div>
+        <p class="org"></p>
+        <p class="r13"></p>
+        <div class="container">
+            <div class="row">
+                <form>
+                    <div class="form-group">
+                        <label for="shift">Shift #: </label>
+                        <input id="shift" data-slider-id='shift' type="text" data-slider-min="1" data-slider-max="26"
+                            data-slider-step="1" data-slider-value="13" />
+                    </div>
+                    <div class="form-group">
+                        <label for="in">Normal text</label>
+                        <textarea id="in" class="form-control" rows="5"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="ou">Encripted text</label>
+                        <textarea id="ou" class="form-control" rows="5"></textarea>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/6.0.16/bootstrap-slider.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+
+</html>

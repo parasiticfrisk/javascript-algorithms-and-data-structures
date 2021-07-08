@@ -1,0 +1,19 @@
+/* Author: August Frisk
+** Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+** Project: Ceasar's Cipher */
+
+body{ font-family: monospace; }
+
+p.org,
+p.r13{
+    white-space: nowrap;
+    margin: 0 auto;
+    /* width: 1170px; */
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    transform: translateX(-50%);
+    margin-left: 50%;
+    overflow: hidden; 
+	font-size: 1em;
+	cursor: pointer;
+}
