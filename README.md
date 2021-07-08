@@ -35,9 +35,9 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <!-- project quick links -->
 [proj01]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/01/palindrome.html
 [proj02]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/02/roman_num.html
-[proj03]:projects/caesars_cipher.js
-[proj04]:
-[proj05]:projects/cash_register.js
+[proj03]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/03/cipher.html
+[proj04]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/04/phone_valid.html
+[proj05]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/05/register.html
 [req01]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker "Build a Palindrome Checker"
 [req02]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter "Build a Roman Numeral Converter"
 [req03]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher "Build a Caesar's Cipher"
