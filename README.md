@@ -26,23 +26,23 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 |                            | <h3 align="center">Project</h3> |                            |
 | :------------------------- | :------------------------------ | :------------------------- |
-| Palindrom Checker          | [View Code][proj01]             | [View Requirements][req01] |
+| Palindrom Checker          | [View Page][proj01]             | [View Requirements][req01] |
 | Roman Numeral Converter    | [View Page][proj02]             | [View Requirements][req02] |
-| Caesars Cipher             | [View Code][proj03]             | [View Requirements][req03] |
-| Telephone Number Validator | [View Code][proj04]             | [View Requirements][req04] |
-| Cash Register              | [View Code][proj05]             | [View Requirements][req05] |
+| Caesars Cipher             | [View Page][proj03]             | [View Requirements][req03] |
+| Telephone Number Validator | [View Page][proj04]             | [View Requirements][req04] |
+| Cash Register              | [View Page][proj05]             | [View Requirements][req05] |
 
 <!-- project quick links -->
-[proj01]:projects/palindrome_checker.js
-[proj02]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/04/roman_num.html
+[proj01]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/01/palindrome.html
+[proj02]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/02/roman_num.html
 [proj03]:projects/caesars_cipher.js
 [proj04]:
 [proj05]:projects/cash_register.js
-[req01]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker "Palindrome Checker"
-[req02]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form "Build a Survey Form"
-[req03]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page "Build a Product Landing Page"
-[req04]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page "Build a Technical Documentation Page"
-[req05]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage "Build a Personal Portfolio Website"
+[req01]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker "Build a Palindrome Checker"
+[req02]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter "Build a Roman Numeral Converter"
+[req03]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher "Build a Caesar's Cipher"
+[req04]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator "Build a Telephone Number Validator"
+[req05]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register "Build a Cash Register"
 
 <br>
 
