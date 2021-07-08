@@ -1,3 +1,7 @@
+// Author: August Frisk
+// Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+// Project: Palindrome Checker
+
 function palindrome(str) {
     const regex = /[A-Za-z0-9]+/ig;
   

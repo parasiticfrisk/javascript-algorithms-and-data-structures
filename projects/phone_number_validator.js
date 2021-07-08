@@ -1,3 +1,7 @@
+// Author: August Frisk
+// Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+// Project: Phone Number Validator
+
 function telephoneCheck(str) {
   
   const regex = /^(1{1}(\s|-)*(\d{3}))(\s|-)*(\d{3})(\s|-)*(\d{4})$|^1{1}(\s|-)*(\()(\d{3})(\))(\s|-)*(\d{3})(\s|-)*(\d{4})$|(?=\d{10})^(\d{10})$|^(\d{3})(\s|-)*(\d{3})(\s|-)*(\d{4})$|^(\()(\d{3})(\))(\s|-)*(\d{3})(\s|-)*(\d{4})$/ig;

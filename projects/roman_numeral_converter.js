@@ -1,3 +1,7 @@
+// Author: August Frisk
+// Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+// Project: Roman Numeral Converter
+
 function convertToRoman(num) {
   
   const romanNums = {

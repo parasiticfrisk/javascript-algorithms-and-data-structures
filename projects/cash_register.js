@@ -1,3 +1,7 @@
+// Author: August Frisk
+// Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+// Project: Cash Register
+
 function checkCashRegister(price, cash, cid) {
 
   var changeDue = cash - price;

@@ -1,3 +1,7 @@
+// Author: August Frisk
+// Course: Free Code Camp - Algorithms & Data Structures - Fall 2018
+// Project: Caesar's Cipher
+
 function rot13(str) {
   let codes = [];
   let res = [];
