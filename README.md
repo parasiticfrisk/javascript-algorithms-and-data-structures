@@ -9,14 +9,14 @@
 
 <!-- badge info -->
 [school-badge]:https://img.shields.io/badge/free_Code_Camp-Algorithms_&_Data_Structures-white?labelColor=midnightblue&logo=freeCodeCamp&style=for-the-badge
-[course-link]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "Responsive Web Design"
+[course-link]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "JavaScript Algorithms and Data Structures"
 [license-badge]:https://img.shields.io/github/license/parasiticfrisk/javascript-algorithms-and-data-structures?color=informational&&style=for-the-badge
 [LICENSE]:LICENSE "MIT License"
 
 <br>
 
 ## Course Description:
-In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+In this [JavaScript Algorithms and Data Structures Certification][course-link], you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 
 First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a web form.
 
