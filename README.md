@@ -52,4 +52,4 @@ By viewing and/or interacting with these files as a current or future student of
 [req03]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher "Build a Caesar's Cipher"
 [req04]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator "Build a Telephone Number Validator"
 [req05]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register "Build a Cash Register"
-[Academic Honesty Policy]:../academic_honesty_policy
+[Academic Honesty Policy]:./academic_honesty_policy
