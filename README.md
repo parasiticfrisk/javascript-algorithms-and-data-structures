@@ -8,9 +8,9 @@
 </div>
 
 <!-- badge info -->
-[school-badge]:https://img.shields.io/badge/free_Code_Camp-Algorithms_&_Data_Structures-white?labelColor=midnightblue&logo=freeCodeCamp&style=for-the-badge
+[school-badge]:https://img.shields.io/badge/free_Code_Camp-Algorithms_&_Data_Structures-white?labelColor=006400&logo=freeCodeCamp&style=for-the-badge
 [course-link]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "JavaScript Algorithms and Data Structures"
-[license-badge]:https://img.shields.io/github/license/parasiticfrisk/javascript-algorithms-and-data-structures?color=informational&&style=for-the-badge
+[license-badge]:https://img.shields.io/github/license/parasiticfrisk/javascript-algorithms-and-data-structures?color=informational&style=for-the-badge
 [LICENSE]:LICENSE "MIT License"
 
 <br>
