@@ -42,11 +42,11 @@ By viewing and/or interacting with these files as a current or future student of
 | Cash Register              | [View Page][proj05] | [View Requirements][req05] |
 
 <!-- project quick links -->
-[proj01]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/01/palindrome.html
-[proj02]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/02/roman_num.html
-[proj03]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/03/cipher.html
-[proj04]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/04/phone_valid.html
-[proj05]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/js/05/register.html
+[proj01]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/palindrome.html
+[proj02]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/roman_num.html
+[proj03]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/cipher.html
+[proj04]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/phone_valid.html
+[proj05]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/register.html
 [req01]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker "Build a Palindrome Checker"
 [req02]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter "Build a Roman Numeral Converter"
 [req03]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher "Build a Caesar's Cipher"
