@@ -24,24 +24,25 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 <br>
 
-## [View Certificate](https://raw.githubusercontent.com/parasiticfrisk/javascript-algorithms-and-data-structures/gh-pages/images/javascript-algorithms-and-data-structures.jpg?token=GHSAT0AAAAAABWHWQ5M5RRCE2FCVRJYFDXIYWC32VQ)
-
-<br>
-
-### Notice
-By viewing and/or interacting with these files as a current or future student of Free Code Camp, you agree to the terms of the [Academic Honesty Policy].
+### This [Developer Certification] represents approximately 300 hours of coursework.
 
 <br>
 
 | Project                    |                     |                            |
 | :------------------------- | :------------------ | :------------------------- |
-| Palindrom Checker          | [View Page][proj01] | [View Requirements][req01] |
+| Palindrome Checker         | [View Page][proj01] | [View Requirements][req01] |
 | Roman Numeral Converter    | [View Page][proj02] | [View Requirements][req02] |
 | Caesars Cipher             | [View Page][proj03] | [View Requirements][req03] |
 | Telephone Number Validator | [View Page][proj04] | [View Requirements][req04] |
 | Cash Register              | [View Page][proj05] | [View Requirements][req05] |
 
-<!-- project quick links -->
+<br>
+
+---
+#### Notice
+By viewing and/or interacting with these files as a current or future student of Free Code Camp, you agree to the terms of the [Academic Honesty Policy].
+
+<!-- quick links -->
 [proj01]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/palindrome.html
 [proj02]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/roman_num.html
 [proj03]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/cipher.html
@@ -53,3 +54,4 @@ By viewing and/or interacting with these files as a current or future student of
 [req04]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator "Build a Telephone Number Validator"
 [req05]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register "Build a Cash Register"
 [Academic Honesty Policy]:./academic_honesty_policy
+[Developer Certification]:https://raw.githubusercontent.com/parasiticfrisk/javascript-algorithms-and-data-structures/gh-pages/images/javascript-algorithms-and-data-structures.jpg?token=GHSAT0AAAAAABWHWQ5M5RRCE2FCVRJYFDXIYWC32VQ
