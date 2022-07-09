@@ -4,14 +4,9 @@
 
 [![school-badge]][course-link]
 [![license-badge]][LICENSE]
+![Maintenance](https://img.shields.io/maintenance/no/2018?style=for-the-badge)
 
 </div>
-
-<!-- badge info -->
-[school-badge]:https://img.shields.io/badge/free_Code_Camp-Algorithms_&_Data_Structures-white?labelColor=006400&logo=freeCodeCamp&style=for-the-badge
-[course-link]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "JavaScript Algorithms and Data Structures"
-[license-badge]:https://img.shields.io/github/license/parasiticfrisk/javascript-algorithms-and-data-structures?color=informational&style=for-the-badge
-[LICENSE]:LICENSE "MIT License"
 
 <br>
 
@@ -39,18 +34,26 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <br>
 
 ---
-By viewing and/or interacting with these files as a current or future student of Free Code Camp, you agree to the terms of the [Academic Honesty Policy].
+By viewing and/or interacting with the files associated within these repositories as a current or future student of computer science, computer electronics, computer information systems, or related field of study, you agree to the terms of the [Academic Honesty Policy].
 
 <!-- quick links -->
-[proj01]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/palindrome.html
-[proj02]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/roman_num.html
-[proj03]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/cipher.html
-[proj04]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/phone_valid.html
-[proj05]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/register.html
-[req01]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker "Build a Palindrome Checker"
-[req02]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter "Build a Roman Numeral Converter"
-[req03]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher "Build a Caesar's Cipher"
-[req04]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator "Build a Telephone Number Validator"
-[req05]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register "Build a Cash Register"
-[Academic Honesty Policy]:./academic_honesty_policy
-[Developer Certification]:https://raw.githubusercontent.com/parasiticfrisk/javascript-algorithms-and-data-structures/gh-pages/images/javascript-algorithms-and-data-structures.jpg?token=GHSAT0AAAAAABWHWQ5M5RRCE2FCVRJYFDXIYWC32VQ
+<!-- badge info -->
+[school-badge]:https://img.shields.io/badge/free_Code_Camp-Algorithms_&_Data_Structures-white?labelColor=006400&logo=freeCodeCamp&style=for-the-badge
+[course-link]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "view on freeCodeCamp"
+[license-badge]:https://img.shields.io/github/license/parasiticfrisk/javascript-algorithms-and-data-structures?color=informational&style=for-the-badge
+[LICENSE]:LICENSE "view license"
+<!-- projects -->
+[proj01]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/palindrome.html "view on github"
+[proj02]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/roman_num.html "view on github"
+[proj03]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/cipher.html "view on github"
+[proj04]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/phone_valid.html "view on github"
+[proj05]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/register.html "view on github"
+<!-- requirements -->
+[req01]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker "view on freeCodeCamp"
+[req02]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter "view on freeCodeCamp"
+[req03]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher "view on freeCodeCamp"
+[req04]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator "view on freeCodeCamp"
+[req05]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register "view on freeCodeCamp"
+<!-- misc -->
+[Academic Honesty Policy]:./academic_honesty_policy "view policy"
+[Developer Certification]:https://raw.githubusercontent.com/parasiticfrisk/javascript-algorithms-and-data-structures/gh-pages/images/javascript-algorithms-and-data-structures.jpg?token=GHSAT0AAAAAABWHWQ5M5RRCE2FCVRJYFDXIYWC32VQ "view certificate"
