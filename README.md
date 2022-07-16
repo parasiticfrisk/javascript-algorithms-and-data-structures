@@ -49,9 +49,9 @@ By viewing and/or interacting with the files associated within these repositorie
 [JavaScript Algorithms and Data Structures Certification]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 [View Checker]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/palindrome.html
 [View Converter]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/roman_num.html
-[[View Cipher]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/cipher.html
+[View Cipher]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/cipher.html
 [View Validator]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/phone_valid.html
-[[View Register]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/register.html
+[View Register]:https://parasiticfrisk.github.io/javascript-algorithms-and-data-structures/register.html
 <!-- requirements -->
 [Checker Requirements]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker
 [Converter Requirements]:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
